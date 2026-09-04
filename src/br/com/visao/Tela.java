@@ -1,11 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
+
 package br.com.visao;
 
 import br.com.controle.Moedacontrole;
-import br.com.modelo.Calculo;
 import javax.swing.JOptionPane;
 
 /**
